@@ -7,5 +7,9 @@ public class Main {
         String name = "Krzysiek";
 
         System.out.println(name.length());
+
+        for (int i=0; i<10; i++){
+            
+        }
     }
 }
