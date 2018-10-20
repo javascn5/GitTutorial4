@@ -5,8 +5,6 @@ public class User {
     private  String lastname;
     private  int age;
 
-    public User(String name,String lastname, int age){
-        
-    }
+    
 }
 
